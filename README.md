@@ -114,13 +114,17 @@ Execute the program
 </table>
 </body>
 </html>
+
 '''
 
 # OUPUT
 ![OUTPUT](http://niveshap.student.saveetha.in:8000/static/images/out.png?raw=true)
+![out](https://user-images.githubusercontent.com/122986499/233896823-4f20b12e-757e-42b6-b1e9-b51cea858f56.png)
+
 
 # HTML VALIDATOR
 ![HTML VALIDATOR](http://niveshap.student.saveetha.in:8000/static/images/valid.png?raw=true)
+![valid](https://user-images.githubusercontent.com/122986499/233896932-0d31c425-cfcf-4aee-94f7-563fb9b3cb4f.png)
 
 # RESULT
 The program for creating timetable was completed successfully.
